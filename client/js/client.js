@@ -1,5 +1,4 @@
-//var socket = io();
-var socket = io.connect('//walm.ddns.net:2000');
+var socket = io();
 
 var WIDTH = 500;
 var HEIGHT = 500;
