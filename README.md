@@ -1,4 +1,4 @@
-# dodgeball
+# dodgeball V1.0
 My dodgeball javascript game with node.js and socket.io
 
 To get this to work you need to do <number> of steps
